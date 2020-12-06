@@ -14,7 +14,7 @@ A simple tool for flashing your recovery
 
     Arch: `yaourt -S android-sdk-platform-tools`
   
-  * Clone repository: `git clone https://github.com/1IxI1/SimpleRecoveryFlasher && cd SimpleRecoveryFlasher`
+  * Clone repository: `git clone https://github.com/1IxI1/SimpleRecoveryFlasher && cd SimpleRecoveryFlasher/SimpleRecoveryFlasher`
   * Run: `sudo python3 SimpleRecoveryFlasher.py`
 
 ## Using notes
