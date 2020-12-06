@@ -2,6 +2,9 @@
 A simple tool for flashing your recovery
 (русское руководство ниже)
 
+<img src="https://i.ibb.co/hR3SqRc/screenshot.png" width="200">
+
+
 ## Install
 
 ### Windows
@@ -33,6 +36,11 @@ A simple tool for flashing your recovery
   * Unzip archive
   * The resulting folder will contain your recovery
 
+
+## Why should I run a programm from the sudo?
+  For working with adb. You can make sure that adb does not work from a normal user by entering the `fastboot devices` command with the phone connected in fastboot mode. Also, if you are afraid, you can read the source code in the .py file or not run the program at all.
+  
+  
 ## Donate
   Card number: `4757880020409662`
   
@@ -42,6 +50,9 @@ A simple tool for flashing your recovery
   
 # SimpleRecoveryFlasher (Русский)
 Простой инструмент для прошивки вашего рекавери
+
+<img src="https://i.ibb.co/m4mZ5d0/screenshot-ru.png" width="200">
+
 
 ## Установка
 
@@ -73,6 +84,11 @@ A simple tool for flashing your recovery
   * Перейдите на https://orangefox.download/, выберите ваш девайс и скачайте zip-архив
   * Разархивируйте его
   * В полученной папке будет лежать ваше рекавери
+  
+  
+## Почему я должен запускать скрипт от sudo?
+  Для работы adb. Вы можете убедиться, что adb не работает от обычного пользователя, введя команду `fastboot devices` с присоеденённым телефоном в режиме fastboot. Так же, если вы боитесь, вы можете почитать исходный код в .py файле или же вовсе не запускать программу.
+  
   
 ## Поддержать разработчика
   Номер карты: `4757880020409662`
