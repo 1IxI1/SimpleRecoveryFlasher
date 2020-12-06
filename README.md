@@ -5,6 +5,7 @@ A simple tool for flashing your recovery
 ## Install
 
 ### Windows
+  * Download zip archive and unzip it
   * Open `SimpleRecoveryFlasher.exe` from directory SimpleRecoveryFlasherWindows
 
 ### Linux
@@ -45,6 +46,7 @@ A simple tool for flashing your recovery
 ## Установка
 
 ### Windows
+  * Скачайте zip-архив и разархивируйте
   * Откройте `SimpleRecoveryFlasher.exe` из директории SimpleRecoveryFlasherWindows_ru
 
 ### Linux
