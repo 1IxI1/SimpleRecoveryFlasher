@@ -10,9 +10,9 @@ A simple tool for flashing your recovery
 ### Linux
   * Install the adb to your distro:
 
-    **Ubuntu:** `sudo apt install android-sdk-platform-tools`
+    Ubuntu: `sudo apt install android-sdk-platform-tools`
 
-    **Arch:** `yaourt -S android-sdk-platform-tools`
+    Arch: `yaourt -S android-sdk-platform-tools`
   
   * Clone repository: `git clone https://github.com/1IxI1/SimpleRecoveryFlasher && cd SimpleRecoveryFlasher`
   * Run: `sudo python3 SimpleRecoveryFlasher.py`
@@ -50,11 +50,11 @@ A simple tool for flashing your recovery
 ### Linux
   * Установите adb для вашего дистрибутива:
 
-    **Ubuntu:** `sudo apt install android-sdk-platform-tools`
+    Ubuntu: `sudo apt install android-sdk-platform-tools`
 
-    **Arch:** `yaourt -S android-sdk-platform-tools`
+    Arch: `yaourt -S android-sdk-platform-tools`
   
-  * Клонируйте репозиторий: `git clone https://github.com/1IxI1/SimpleRecoveryFlasher && cd SimpleRecoveryFlasher`
+  * Клонируйте репозиторий: `git clone https://github.com/1IxI1/SimpleRecoveryFlasher && cd SimpleRecoveryFlasher/SimpleRecoveryFlasher_ru`
   * Запустите: `sudo python3 SimpleRecoveryFlasher.py`
 
 ## Примечания по использованию
