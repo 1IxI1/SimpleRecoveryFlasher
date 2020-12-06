@@ -1,5 +1,6 @@
-# SimpleRecoveryFlasher (русское руководство ниже)
+# SimpleRecoveryFlasher
 A simple tool for flashing your recovery
+(русское руководство ниже)
 
 ## Install
 
