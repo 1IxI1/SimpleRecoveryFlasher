@@ -14,7 +14,7 @@ A simple tool for flashing your recovery
 ### Linux
   * Install the adb to your distro:
 
-    Ubuntu: `sudo apt install android-sdk-platform-tools`
+    Ubuntu: `sudo apt install android-sdk-platform-tools python3-tk`
 
     Arch: `yaourt -S android-sdk-platform-tools`
   
